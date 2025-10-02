@@ -3,5 +3,4 @@ from transformers import pipeline
 # Load a pre-trained generative model (GPT-2)
 generator = pipeline("text-generation", model="gpt2")
 
-# Generate text
-prompt = "Once upon a time in a futuristic city,"
+# Generate te
