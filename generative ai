@@ -6,3 +6,6 @@ generator = pipeline("text-generation", model="gpt2")
 # Generate te
 # Load a pre-trained generative model (GPT-2)
 generator = pipeline("text-generation", model="gpt2")
+# Generate te
+# Load a pre-trained generative model (GPT-2)
+generator = pipeline("text-generation", model="gpt2")
