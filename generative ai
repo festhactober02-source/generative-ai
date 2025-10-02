@@ -8,7 +8,12 @@ generator = pipeline("text-generation", model="gpt2")
 generator = pipeline("text-generation", model="gpt2")
 # Generate te
 # Load a pre-trained generative model (GPT-2)
-generator = pipeline("text-generation", model="gpt2")
+generator = pipeline("text-generatio
+
+sert at the end
+    def insert_at_end(self, data):sert at the end
+    def insert_at_end(self, data):sert at the end
+    def insert_at_end(self, data):n", model="gpt2")
 rained generative model (GPT-2)
 generator = pipeline("text-generation", model="gpt2")
 # Generate te
