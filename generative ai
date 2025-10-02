@@ -1,0 +1,12 @@
+from transformers import pipeline
+
+# Load a pre-trained generative model (GPT-2)
+generator = pipeline("text-generation", model="gpt2")
+
+# Generate text
+prompt = "Once upon a time in a futuristic city,"
+outputs = generator(prompt, max_length=100, num_return_sequences=2, temperature=0.7)
+
+# Print results
+for i, output in enumerate(outputs):
+    print(f"\nGenerated Text {i+1}:\n{output['generated_text']}\n")
