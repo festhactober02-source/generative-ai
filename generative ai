@@ -6,7 +6,27 @@ generator = pipeline("text-generation", model="gpt2")
 
 # Generate te # Insert at the beginning
     def insert_at_beginning(self, data):
+        new_node = Node(    self.head = new_node
+ # Insert at the beginning
+    def insert_at_beginning(self, data):
         new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node    self.head = new_node
+ # Insert at the beginning
+    def insert_at_beginning(self, data):
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node    self.head = new_node
+ # Insert at the beginning
+    def insert_at_beginning(self, data):
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node    self.head = new_node
+ # Insert at the beginning
+    def insert_at_beginning(self, data):
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_nodedata)
         new_node.next = self.head
         self.head = new_node
  # Insert at the beginning
