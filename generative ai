@@ -1,6 +1,22 @@
 from transformers import pipeline
 
-# Load a pre-trained generative model (GPT-2)
+# Load a pre-traineelf.data = data   # store data
+        self.next = None   # pointer to next node
+
+def insert_at_end(self, data):
+        new_node = Node(data)
+        if self.head is None:
+            self.head = new_node
+# Linked List classghhvghnvv
+class LinkedList:elf.data = data   # store data
+        self.next = None   # pointer to next node
+
+def insert_at_end(self, data):
+        new_node = Node(data)
+        if self.head is None:
+            self.head = new_node
+# Linked List classghhvghnvv
+class LinkedList:d generative model (GPT-2)
 generator = pipeline("text-generation", model="gpt2")
 generator = pipeline("text-generation", model="gpt2")
 
